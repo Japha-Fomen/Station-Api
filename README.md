@@ -1,5 +1,5 @@
 # 🚗 Station-Api  
-### *Trouver le stationnement le plus proche( en se basant sur le temps pour s'y rendre grâce aux graphes, à Java et à une interface graphique dynamique.*
+### *Trouver le stationnement le plus proche( en se basant sur le temps pour s'y rendre) grâce aux graphes, à Java et à une interface graphique dynamique.*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Dijkstra-blue?style=for-the-badge)
